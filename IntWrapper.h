@@ -18,7 +18,6 @@ public:
     void printValue();
     int getValue() const;
     void setValue(int val);
-    // void print(ostream &out = cout) const;
 private:
     int value;
 };
